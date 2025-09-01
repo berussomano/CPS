@@ -13,5 +13,12 @@ For questions, suggestions, or discussions, feel free to contact me via email: b
 
 
 
+<img width="403" height="490" alt="image" src="https://github.com/user-attachments/assets/9148ca99-d586-4bbc-8d2e-0220a362334f" />
+
+<img width="2145" height="1470" alt="image" src="https://github.com/user-attachments/assets/eccce59c-20e4-4a6d-a538-0018cd7d2570" />
+
+<img width="1489" height="790" alt="image" src="https://github.com/user-attachments/assets/4d9a4c9c-ccf5-4603-9e51-c670f209e587" />
+
+
 
 
