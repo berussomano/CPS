@@ -4,7 +4,7 @@ The script uses data with a 3-hour temporal resolution from CFSR (Climate Foreca
 
 The script selects, classifies, and plots cyclone composites in polar coordinates!  
 Classification is based on the methodology of Hart (2003), the Cyclone Phase Space (CPS), and the definition of bombs by Sanders & Gyakum (1980).
-The CPS code for case studies and educational purposes made availabre by Frederic Ferry was very helpfull in the begining and I aknowlegde him for that. I recommend a check on this one: https://github.com/fredericferry/era5_cps_diagram 
+The CPS code for case studies and educational purposes made available by Frederic Ferry was very helpful in the beginning, and I acknowledge him for that. I recommend a check on this one: https://github.com/fredericferry/era5_cps_diagram 
 
 Attention to the shape and format of the CFSR data. It is showed in the script.
 For the Gramcianinov et al. (2020) cyclone tracking database, just use the function rm.le_tracking_camargo. See the Result_Of_The_Function_le_tracking_camargo to see the format of the cyclone tracking dataframe.
